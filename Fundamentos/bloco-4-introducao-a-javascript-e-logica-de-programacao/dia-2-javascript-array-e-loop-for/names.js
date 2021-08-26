@@ -5,6 +5,8 @@ let names = [
     'Margarida'
     ];
 
-for(let name of names){
-    console.log(name)
+for (let name of names) {
+
+    console.log(name);
+    
 }
